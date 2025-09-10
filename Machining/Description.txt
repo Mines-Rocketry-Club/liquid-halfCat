@@ -5,6 +5,7 @@ Fuel Tank Bulkhead - BKHD-FL-O238-4NPT2X250C
 	CNC Lathe for top setup (everything except the optional counterbores). Manual mill for optional counterbores.
 
 Oxidizer Tank Bulkhead - BKHD-OX-O238-8NPT4NPT
+	CNC Lathe for everything, can be done in the same setup as Fuel Tank Bulkhead w/ parting.
 
 Propellant Piston - PSTN-2XO238-250T20
 
