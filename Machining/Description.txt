@@ -1,0 +1,27 @@
+Machining OPs
+Propellant Tank Casing - TANK-36L-047V-2X8X313C
+
+Fuel Tank Bulkhead - BKHD-FL-O238-4NPT2X250C
+	CNC Lathe for top setup (everything except the optional counterbores). Manual mill for optional counterbores.
+
+Oxidizer Tank Bulkhead - BKHD-OX-O238-8NPT4NPT
+
+Propellant Piston - PSTN-2XO238-250T20
+
+Interface Ring - INRG-200S-8X3125C8X250C
+
+
+
+Quick Disconnect Flange (3/4" x 1/8", 9/32" Female Bore, 1/8 NPT) - QDC-750X125FLG-281FB8NPT
+
+Quick DIsconnect Flange (3/4" x 1/8", 0.270 Male Barb, -007 O-Ring Gland) - QDC-750x125FLG-270MB-O007
+
+
+
+Injector - INJC-2X8NPT-38NPT-250T20-2X0230-BASIC
+
+Nozzle - NZZL-45C20D-200E
+
+Combustion Chamber - CMBR-200DI-250B-525L
+
+Throat Insert - THRT-45C20D-100T
