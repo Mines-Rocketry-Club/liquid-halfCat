@@ -1,5 +1,6 @@
 Machining OPs
 Propellant Tank Casing - TANK-36L-047V-2X8X313C
+	3D Print Jig, hand drill holes
 
 Fuel Tank Bulkhead - BKHD-FL-O238-4NPT2X250C
 	CNC Lathe for top setup (everything except the optional counterbores). Manual mill for optional counterbores.
@@ -8,21 +9,29 @@ Oxidizer Tank Bulkhead - BKHD-OX-O238-8NPT4NPT
 	CNC Lathe for everything, can be done in the same setup as Fuel Tank Bulkhead w/ parting.
 
 Propellant Piston - PSTN-2XO238-250T20
+	Manual Lathe
 
-Interface Ring - INRG-200S-8X3125C8X250C
+Interface Ring - INRG-200S-8X3125C8X250C (1/2 done)
+	Can be done with CNC Lathe in 1 setup. Need to be careful with extra stickout for live tooling, should be doable since we have extra stock. Might be easier with a manual mill and rotary table.
 
 
 
 Quick Disconnect Flange (3/4" x 1/8", 9/32" Female Bore, 1/8 NPT) - QDC-750X125FLG-281FB8NPT
+	Possible on CNC Lathe in 1 setup.
 
-Quick DIsconnect Flange (3/4" x 1/8", 0.270 Male Barb, -007 O-Ring Gland) - QDC-750x125FLG-270MB-O007
+Quick Disconnect Flange (3/4" x 1/8", 0.270 Male Barb, -007 O-Ring Gland) - QDC-750x125FLG-270MB-O007
+	CNC Lathe in 1 setup. Very simple part, could be done manually.
 
 
 
 Injector - INJC-2X8NPT-38NPT-250T20-2X0230-BASIC
+	CNC Lathe for injector holes, Manual Mill/Lathe for foreward side boring and holes.
 
 Nozzle - NZZL-45C20D-200E
-
+	CNC Lathe, 2 OPs
+	
 Combustion Chamber - CMBR-200DI-250B-525L
+	Manual Lathe
 
 Throat Insert - THRT-45C20D-100T
+	Manual Lathe
