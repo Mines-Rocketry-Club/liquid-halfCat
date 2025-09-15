@@ -2,10 +2,10 @@ Machining OPs
 Propellant Tank Casing - TANK-36L-047V-2X8X313C
 	3D Print Jig, hand drill holes
 
-Fuel Tank Bulkhead - BKHD-FL-O238-4NPT2X250C
+Fuel Tank Bulkhead - BKHD-FL-O238-4NPT-2X250C
 	CNC Lathe for top setup (everything except the optional counterbores). Manual mill for optional counterbores.
 
-Oxidizer Tank Bulkhead - BKHD-OX-O238-8NPT4NPT
+Oxidizer Tank Bulkhead - BKHD-OX-O238-8NPT-4NPT
 	CNC Lathe for everything, can be done in the same setup as Fuel Tank Bulkhead w/ parting.
 
 Propellant Piston - PSTN-2XO238-250T20
@@ -16,11 +16,11 @@ Interface Ring - INRG-200S-8X3125C8X250C (1/2 done)
 
 
 
-Quick Disconnect Flange (3/4" x 1/8", 9/32" Female Bore, 1/8 NPT) - QDC-750X125FLG-281FB8NPT
-	Possible on CNC Lathe in 1 setup.
+Quick Disconnect Flange (3/4" x 1/8", 9/32" Female Bore, 1/8 NPT) - QDC-750X125FLG-281FB-8NPT
+	Very simple part, manual lathe
 
-Quick Disconnect Flange (3/4" x 1/8", 0.270 Male Barb, -007 O-Ring Gland) - QDC-750x125FLG-270MB-O007
-	CNC Lathe in 1 setup. Very simple part, could be done manually.
+Quick Disconnect Flange (3/4" x 1/8", 0.270 Male Barb, -007 O-Ring Gland) - QDC-750x125FLG-270MB-O007-8NPT
+	CNC Lathe in 1 setup, also possible on manual lathe
 
 
 
